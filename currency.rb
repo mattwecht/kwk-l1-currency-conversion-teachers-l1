@@ -11,23 +11,23 @@ def usd_to_jpy(amount)
   return amount 
 end
 
-def usd_to_GBP(amount)
+def usd_to_gbp(amount)
   return amount 
 end
 
-def usd_to_AUD(amount)
+def usd_to_aud(amount)
   return amount 
 end
 
-def JPY_to_USD(amount)
+def jpy_to_usd(amount)
   return amount 
 end
 
-def GBP_to_USD(amount)
+def gbp_to_usd(amount)
   return amount 
 end
 
-def AUD_to_USD(amount)
+def aud_to_usd(amount)
   return amount 
 end
 
