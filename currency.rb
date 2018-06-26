@@ -48,7 +48,7 @@ choice = gets.chomp().to_i
  
 case choice
 when 1
-  #code here
+  puts"test"
 when 2
   #code here
 when 3
